@@ -33,6 +33,7 @@ These updates are already live on [discordium.org](https://discordium.org):
 - [x] 🔒 **Security & Privacy Page Added** – Updated for better legal transparency  
 - [x] 🪪 **DMCA Badge Added** – Visible protection badge on footer section  
 - [x] 👕 **Merch Logo Updated** – Modernized logo for Discordium Merch
+- [x] 🧰 **Bot Profile Picture Updates** – Fixed sync issue with Discord API 
 
 ---
 
@@ -43,7 +44,6 @@ Currently under active development by the Discordium team:
 - [ ] 💬 **Community Hub Expansion** – More interactive community spaces  
 - [ ] 🧰 **FA Bump Premium Integration** – Sync premium boosts to site  
 - [ ] 🌐 **Multilingual Pages** – Full language support (EN, DE, FR, ES)  
-- [ ] 🧰 **Bot Profile Picture Updates** – Fixed sync issue with Discord API 
 - [ ] 🧱 **Website Builder Subpage** – Create and manage custom bot web pages  
 - [ ] 💬 **Community Hub Expansion** – More interactive community spaces  
 - [ ] 📊 **Stats Command & Categories** – New stats feature with 3 variants: Free, Paid & Paid+ 
