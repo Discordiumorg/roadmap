@@ -34,16 +34,17 @@ These updates are already live on [discordium.org](https://discordium.org):
 - [x] 🪪 **DMCA Badge Added** – Visible protection badge on footer section  
 - [x] 👕 **Merch Logo Updated** – Modernized logo for Discordium Merch
 - [x] 🧰 **Bot Profile Picture Updates** – Fixed sync issue with Discord API 
-
+- [x] 🐼 **Discordium Mascot Assistant** – Interactive mascot for greetings & help support
+- [x] 🌐 **Multilingual Pages** – Full language support (EN, DE, FR, ES) 
+- [x] 📄 **DMCA, Refund Policy & Brand Policy** – Add complete compliance and refund framework  
+- [x] 🚫 **NSFW Filter** – Advanced detection and restriction for NSFW content across listings  
 ---
 
 ## 🧠 In Progress
 Currently under active development by the Discordium team:
 
-- [ ] 🐼 **Discordium Mascot Assistant** – Interactive mascot for greetings & help support  
 - [ ] 💬 **Community Hub Expansion** – More interactive community spaces  
-- [ ] 🧰 **FA Bump Premium Integration** – Sync premium boosts to site  
-- [ ] 🌐 **Multilingual Pages** – Full language support (EN, DE, FR, ES)  
+- [ ] 🧰 **FA Bump Premium Integration** – Sync premium boosts to site   
 - [ ] 🧱 **Website Builder Subpage** – Create and manage custom bot web pages  
 - [ ] 💬 **Community Hub Expansion** – More interactive community spaces  
 - [ ] 📊 **Stats Command & Categories** – New stats feature with 3 variants: Free, Paid & Paid+ 
@@ -67,17 +68,15 @@ Upcoming major projects on the roadmap:
 - [ ] 💎 **Paid Ads Banner Section** – Create dedicated banner section for premium ads  
 
 ### ⚙️ Policy & Security
-- [ ] 📄 **DMCA, Refund Policy & Brand Policy** – Add complete compliance and refund framework  
-- [ ] 🚫 **NSFW Filter** – Advanced detection and restriction for NSFW content across listings  
 - [ ] 📑 **DMCA & Takedown Form** – Fast takedown form with instant verification  
-- [ ] 🚨 **Report & Abuse Button** – Add “Report Content” system for listings and bots  
+- [x] 🚨 **Report & Abuse Button** – Add “Report Content” system for listings and bots  
 - [ ] 🧱 **Bug Bounty Program** – Reward users who report valid vulnerabilities or issues  
 
 ### 💡 Functional Additions
 - [ ] 🔗 **Reflink System** – Personalized referral links for user growth tracking  
-- [ ] 🏷️ **Title Tags for Pages** – Dynamic meta tags for improved SEO visibility  
+- [x] 🏷️ **Title Tags for Pages** – Dynamic meta tags for improved SEO visibility  
 - [ ] 📢 **Cross-Page Ad Banners** – Integrate ad banners on `BotPage`, `/servers`, and `/bots`  
-- [ ] 🧾 **Formulare System** – Reworked form templates for partner, report, and review submissions  
+- [x] 🧾 **Formulare System** – Reworked form templates for partner, report, and review submissions  
 - [ ] 📚 **Docs Page** – Add public documentation for features and integrations  
 
 ### 🎮 Community & Growth
