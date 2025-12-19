@@ -75,7 +75,7 @@ Upcoming major projects on the roadmap:
 ### 💡 Functional Additions
 - [ ] 🔗 **Reflink System** – Personalized referral links for user growth tracking  
 - [x] 🏷️ **Title Tags for Pages** – Dynamic meta tags for improved SEO visibility  
-- [ ] 📢 **Cross-Page Ad Banners** – Integrate ad banners on `BotPage`, `/servers`, and `/bots`  
+- [x] 📢 **Cross-Page Ad Banners** – Integrate ad banners on `BotPage`, `/servers`, and `/bots`  
 - [x] 🧾 **Formulare System** – Reworked form templates for partner, report, and review submissions  
 - [ ] 📚 **Docs Page** – Add public documentation for features and integrations  
 
@@ -86,10 +86,10 @@ Upcoming major projects on the roadmap:
 - [ ] 🎟️ **Auto-Coupons** – Automatic discounts for loyal voters and reviewers  
 - [ ] 🏪 **Vote Shop** – Exchange votes for benefits or exclusive items  
 - [ ] 🔁 **Double Voting for Bot Premium** – Enable double rewards for premium bots  
-- [ ] 🧩 **Verification Embed System** – Accept/decline embeds for verified and partner bots or servers  
+- [x] 🧩 **Verification Embed System** – Accept/decline embeds for verified and partner bots or servers  
 - [ ] 🎉 **Giveaway Category** – List and promote active community giveaways  
-- [ ] 🆕 **New Bots Category** – Highlight recently added bots on the BotPage  
-- [ ] 🔍 **Search Filters** – Advanced filtering system for listings (bots, servers, games)  
+- [x] 🆕 **New Bots Category** – Highlight recently added bots on the BotPage  
+- [x] 🔍 **Search Filters** – Advanced filtering system for listings (bots, servers, games)  
 
 ### 📊 Analytics & Integrations
 - [ ] 📊 **Advanced Analytics** – Server & ad performance dashboard  
