@@ -95,7 +95,7 @@ Upcoming major projects on the roadmap:
 - [ ] 📊 **Advanced Analytics** – Server & ad performance dashboard  
 - [ ] 🤖 **Bot Integration API** – Public API for bot listing and verification  
 - [ ] 🧾 **Partner Portal** – For strong verified partnerships & collaborations  
-- [ ] ⚙️ **Server Verification System** – New process for trusted listings  
+- [x] ⚙️ **Server Verification System** – New process for trusted listings  
 - [ ] 🪄 **Dynamic Banners** – Custom animated banners for premium users  
 - [ ] 🕹️ **FiveM & Minecraft Expansion** – Dedicated listing categories
 
