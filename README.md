@@ -7,6 +7,15 @@ Here you can track ongoing updates, completed features, and upcoming plans for t
 
 ---
 
+## Guides and current documentation
+
+- [Discord bot listing checklist](docs/discord-bot-listing-checklist.md): prepare a clear description, installation path, pricing information and ownership details.
+- [Discordium Discord server list](https://discordium.org/): discover communities and review their listings.
+- [Discordium Developer API documentation](https://discordium.org/developers): statistics, vote checks and vote webhooks.
+- [Current product progress](https://discordium.org/progress) and [release changelog](https://discordium.org/changelog).
+
+---
+
 ## ✅ Completed
 These updates are already live on [discordium.org](https://discordium.org):
 
