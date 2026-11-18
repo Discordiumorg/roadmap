@@ -9,6 +9,8 @@ Here you can track ongoing updates, completed features, and upcoming plans for t
 
 ## Guides and current documentation
 
+- [Discord bot evaluation worksheet](docs/discord-bot-evaluation-worksheet.md): compare candidates, document permissions and limits, and test member workflows.
+
 - [Discord bot listing checklist](docs/discord-bot-listing-checklist.md): prepare a clear description, installation path, pricing information and ownership details.
 - [Discord vote webhook processing guide](docs/discord-vote-webhook-processing-guide.md): plan durable receipt, duplicate handling, vote claims and failure recovery.
 - [Free listing description builder](https://discordium-listing-builder.nassvoll.chatgpt.site/): turn your own Discord or gaming community details into a description you can copy or download as Markdown.
