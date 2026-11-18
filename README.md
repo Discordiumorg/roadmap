@@ -11,6 +11,7 @@ Here you can track ongoing updates, completed features, and upcoming plans for t
 
 - [Discord bot listing checklist](docs/discord-bot-listing-checklist.md): prepare a clear description, installation path, pricing information and ownership details.
 - [Discord vote webhook processing guide](docs/discord-vote-webhook-processing-guide.md): plan durable receipt, duplicate handling, vote claims and failure recovery.
+- [Free listing description builder](https://discordium-listing-builder.nassvoll.chatgpt.site/): turn your own Discord or gaming community details into a description you can copy or download as Markdown.
 - [Discordium Discord server list](https://discordium.org/): discover communities and review their listings.
 - [Discordium Developer API documentation](https://discordium.org/developers): statistics, vote checks and vote webhooks.
 - [Current product progress](https://discordium.org/progress) and [release changelog](https://discordium.org/changelog).
